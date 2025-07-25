@@ -13,7 +13,7 @@ Extract file indicator SHA‑256 hash from the captured malicious payload using 
 Identify initial infection file and traced execution flow.
 Observed outbound communications to C2 servers.
 
-## Achiement 
+## Achievement
 
 I successfully completed DanaBot Blue Team Lab at @CyberDefenders!
 https://cyberdefenders.org/blueteam-ctf-challenges/achievements/bkmoatswi/danabot/ 
